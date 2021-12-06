@@ -32,8 +32,9 @@ L'adottare un nuovo simbolo crea più problemi di quanti se ne riescano a risolv
 7. Selezionare l'interno della cartella dove sono presenti i file dell'estensione
 
 ## BUGS E LIMITAZIONI
-- [x] Se la schwa è scritta da sola, quindi solo come indicazione della lettera, verrà sostituita dalla lettera "i"
+- [x] ~~Se la schwa è scritta da sola, quindi solo come indicazione della lettera, verrà sostituita dalla lettera "i"~~
 - [ ] Al momento l'estensione funziona solo con le forme plurali. Non trattandosi di un algoritmo di *machine learning* ma di un banale trova-e-sostituisci, devo trovare un modo per distinguere la forma singolare da quella plurale
+- [ ] L'estensione non può distinguere quando i soggetti della frase sono esplicitamente di sesso femminile. Come sopra, trattandosi di un trova-e-sostituisci e non di un algoritmo di *machine learning*, non è possibile intuire quale scenario si stia riscontrando.
 
 Potete aprire una [issue](https://github.com/frankie-mceyes/NoSchwa/issues) per segnalare bug.
 
@@ -45,6 +46,6 @@ Questa sezione serve per testare l'effettiva installazione dell'estensione.
 Di seguito sono riportate alcune frasi. Se notate che tutte le parole **tranne la singola schwa** terminano con il maschile generico, allora l'installazione dell'estensione è andata a buon fine. In caso contrario, dovrete rivedere i passaggi ed eventualmente ripeterli.
 <br>
 **TEST:**
-- Ciao a tuttə
-- Siamo statə a casa di Lucio
+- Ciao a tutti
+- Siamo stati a casa di Lucio
 - Io faccio uso della schwa per indicare il generico: ə
