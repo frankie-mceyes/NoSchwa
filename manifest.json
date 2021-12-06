@@ -1,7 +1,7 @@
 {
-"manifest_version": 3,
+"manifest_version": 2,
     "name": "NoSchwa",
-    "description": "Questa estensione sostituisce il simbolo schwa con il plurale generico maschile.",
+    "description": "Questa estensione sostituisce il simbolo schwa con il plurale generico maschile nelle pagine web.",
     "version": "1.0",
     "content_scripts": [
         {
