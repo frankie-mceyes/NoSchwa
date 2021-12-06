@@ -19,3 +19,32 @@ L'adottare un nuovo simbolo crea più problemi di quanti se ne riescano a risolv
     - Le persone che studiano la lingua italiana che vengono a conoscenza della caratteristica grammaticale del genere potrebbero trovare difficoltà durante lo studio della lingua, poiché verrebbe prima insegnata una componente pilastro della lingua e poi tutte le eccezioni dovute all'uso della schwa sui social/articoli
 4. SCELTA
     - L'idea di essere contrario all'uso di un simbolo grammaticale che sconvolge le parole scritte e lette su un testo, in relazione a quanto studiato e appreso fin dall'infanzia, è totalmente soggettiva e mi riservo il diritto di poter scegliere se adottarle o meno, almeno per quanto concerne ciò che IO leggo. Se qualcun altro o qualcun'altra riterrà opportuno adottare queste regole, sarà liberissimo/a di farlo senza alcuna critica o impedimento.
+
+## INSTALLAZIONE
+1. Scaricare la repository come ZIP sul proprio PC
+2. Estrarre la cartella dovunque desiderato
+3. Aprire Chrome o Edge
+4. Aprire l'indirizzo
+    - Chrome: `chrome://extensions`
+    - Edge: `edge://extensions`
+5. Attivare la modalità sviluppatore (in basso a sinistra c'è un flag da attivare)
+6. Cliccare su "carica decompressa"
+7. Selezionare l'interno della cartella dove sono presenti i file dell'estensione
+
+## BUGS E LIMITAZIONI
+- [x] Se la schwa è scritta da sola, quindi solo come indicazione della lettera, verrà sostituita dalla lettera "i"
+- [ ] Al momento l'estensione funziona solo con le forme plurali. Non trattandosi di un algoritmo di *machine learning* ma di un banale trova-e-sostituisci, devo trovare un modo per distinguere la forma singolare da quella plurale
+
+Potete aprire una [issue](https://github.com/frankie-mceyes/NoSchwa/issues) per segnalare bug.
+
+## AGGIORNAMENTI
+- FIX: Ora la regex permette di sostituire la parola contenente la lettera schwa **senza** sostituire unicamente la lettera
+
+## TEST
+Questa sezione serve per testare l'effettiva installazione dell'estensione.
+Di seguito sono riportate alcune frasi. Se notate che tutte le parole **tranne la singola schwa** terminano con il maschile generico, allora l'installazione dell'estensione è andata a buon fine. In caso contrario, dovrete rivedere i passaggi ed eventualmente ripeterli.
+<br>
+**TEST:**
+- Ciao a tuttə
+- Siamo statə a casa di Lucio
+- Io faccio uso della schwa per indicare il generico: ə
