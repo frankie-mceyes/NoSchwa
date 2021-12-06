@@ -1,6 +1,6 @@
 Questa estensione rimpiazza il grafema Schwa (ə) con il plurale maschile generico, quando trovato in una pagina web.
 
-## PERCHÈ?
+## PERCHÉ?
 La schwa è una soluzione scomoda ad un problema di cui si parla da decenni ma che non ha mai ricevuto una vera e propria soluzione, forse perché non ce n’è bisogno.
 L'adottare un nuovo simbolo crea più problemi di quanti se ne riescano a risolvere. Alcuni dei motivi sono:
 1. COMODITÀ
