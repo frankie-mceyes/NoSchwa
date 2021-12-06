@@ -44,12 +44,13 @@ Potete aprire una [issue](https://github.com/frankie-mceyes/NoSchwa/issues) per 
 
 ## AGGIORNAMENTI
 - FIX: Ora la regex permette di sostituire la parola contenente la lettera schwa **senza** sostituire unicamente la lettera
+- ADD: Aggiunta icona all'estensione
 
 ## TEST
 Questa sezione serve per testare l'effettiva installazione dell'estensione.
 Di seguito sono riportate alcune frasi. Se notate che tutte le parole **tranne la singola schwa** terminano con il maschile generico, allora l'installazione dell'estensione è andata a buon fine. In caso contrario, dovrete rivedere i passaggi ed eventualmente ripeterli.
 <br>
 **TEST:**
-- Ciao a tuttə
-- Siamo statə a casa di Lucio
+- Ciao a tutti
+- Siamo stati a casa di Lucio
 - Io faccio uso della schwa per indicare il generico: ə
