@@ -19,6 +19,10 @@ L'adottare un nuovo simbolo crea più problemi di quanti se ne riescano a risolv
     - Le persone che studiano la lingua italiana che vengono a conoscenza della caratteristica grammaticale del genere potrebbero trovare difficoltà durante lo studio della lingua, poiché verrebbe prima insegnata una componente pilastro della lingua e poi tutte le eccezioni dovute all'uso della schwa sui social/articoli
 4. SCELTA
     - L'idea di essere contrario all'uso di un simbolo grammaticale che sconvolge le parole scritte e lette su un testo, in relazione a quanto studiato e appreso fin dall'infanzia, è totalmente soggettiva e mi riservo il diritto di poter scegliere se adottarle o meno, almeno per quanto concerne ciò che IO leggo. Se qualcun altro o qualcun'altra riterrà opportuno adottare queste regole, sarà liberissimo/a di farlo senza alcuna critica o impedimento.
+5. GLI ESPERTI DICONO ALTRIMENTI
+    - Gli esperti della lingua italiana dell'Accademia della Crusca si sono già espressi in merito all'uso di questo simbolo all'interno della costruzione delle frasi, anche se alcuni individui ancora tendono a non seguire le regole ma il loro cervello. Potete liberamente approfondire la questione qui:
+        - [Repubblica](https://www.repubblica.it/cultura/2021/09/24/news/l_accademia_della_crusca_interviene_su_schwa_e_asterisco-319271624/)
+        - [Accademia della Crusca](https://accademiadellacrusca.it/it/consulenza/un-asterisco-sul-genere/4018#:~:text=...-,allo%20schwa,-In%20alternativa%20all%E2%80%99asterisco)
 
 ## INSTALLAZIONE
 1. Scaricare la repository come ZIP sul proprio PC
