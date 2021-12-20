@@ -1,8 +1,8 @@
 Questa estensione rimpiazza il grafema Schwa (ə) con il plurale maschile generico, quando trovato in una pagina web.
 
 ## PERCHÉ?
-La schwa è una soluzione scomoda ad un problema di cui si parla da decenni ma che non ha mai ricevuto una vera e propria soluzione, forse perché non ce n’è bisogno.
-L'adottare un nuovo simbolo crea più problemi di quanti se ne riescano a risolvere. Alcuni dei motivi sono:
+La schwa è una soluzione scomoda ad un problema di cui si parla da anni ma che non ha mai ricevuto una vera e propria soluzione, forse perché non ce n’è bisogno.
+Il forzare una formula nel linguaggio parlato e scritto, invece che farlo "evolvere" spontaneamente come dovrebbe essere, crea più problemi di quanti se ne riescano a risolvere. Alcuni dei motivi sono:
 1. COMODITÀ
     - Non è facile da trovare sulla tastiera (esistono dei TUTORIAL su come si possa impostare una scorciatoia da tastiera per scrivere lo schwa su Word, https://www.paroleinlinea.com/strumenti/applicazioni/4-modi-per-scrivere-lo-schwa-su-word/);
     - Non tutti sono in grado di impostare scorciatoie da tastiera a causa delle poche competenze informatiche
@@ -51,6 +51,6 @@ Questa sezione serve per testare l'effettiva installazione dell'estensione.
 Di seguito sono riportate alcune frasi. Se notate che tutte le parole **tranne la singola schwa** terminano con il maschile generico, allora l'installazione dell'estensione è andata a buon fine. In caso contrario, dovrete rivedere i passaggi ed eventualmente ripeterli.
 <br>
 **TEST:**
-- Ciao a tuttə
-- Siamo statə a casa di Lucio
+- Ciao a tutti
+- Siamo stati a casa di Lucio
 - Io faccio uso della schwa per indicare il generico: ə
