@@ -51,6 +51,6 @@ Questa sezione serve per testare l'effettiva installazione dell'estensione.
 Di seguito sono riportate alcune frasi. Se notate che tutte le parole **tranne la singola schwa** terminano con il maschile generico, allora l'installazione dell'estensione è andata a buon fine. In caso contrario, dovrete rivedere i passaggi ed eventualmente ripeterli.
 <br>
 **TEST:**
-- Ciao a tutti
-- Siamo stati a casa di Lucio
+- Ciao a tuttə
+- Siamo andatə in piazza
 - Io faccio uso della schwa per indicare il generico: ə
